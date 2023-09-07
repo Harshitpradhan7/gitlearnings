@@ -1,1 +1,2 @@
 ## git learnings
+# git init
